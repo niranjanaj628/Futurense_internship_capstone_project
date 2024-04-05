@@ -44,11 +44,3 @@ Overall Objective:
 
 •	National Performance: Compare performance of different countries based on medal count, participation rates, and athlete demographics.
 
-
-
-
-
-
-•	Trends over Time: Identify trends in participation, medal distribution, and dominance in different sports across various Olympic Games.
-•	Demographic Analysis: Understand the demographics of Olympic athletes (age, sex, height, weight) across different sports and countries.
-•	National Performance: Compare performance of different countries based on medal count, participation rates, and athlete demographics.
