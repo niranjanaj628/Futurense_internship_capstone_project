@@ -2,9 +2,9 @@
 
 ## Team : Innovarion Pioneers
 
-## Team Members:
- Ayushi Tawari 
- Mutta Datta Sai Vishnu Mohan 
- Niranjana J
+## Team Members:  
+-  Ayushi Tawari  
+-  Mutta Datta Sai Vishnu Mohan  
+-  Niranjana J  
 
 
