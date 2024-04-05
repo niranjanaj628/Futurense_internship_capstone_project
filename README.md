@@ -3,7 +3,9 @@
 
 Breakdown of the columns:
 •	ID: Unique identifier for each athlete.
+
 •	Name: Athlete's full name.
+
 •	Sex: Athlete's gender (male or female).
 •	Age: Athlete's age at the time of the competition.
 •	Height: Athlete's height (measurement in centimetres).
