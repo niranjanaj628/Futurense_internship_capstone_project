@@ -35,7 +35,9 @@ Breakdown of the columns:
 •	Medal: Medal awarded to the athlete (gold, silver, bronze, or "NA" for no medal).
 
 
+
 Overall Objective: 
+
 •	Athlete Performance: Analyze factors influencing medal acquisition (e.g., age, height, weight, specific sports/events).
 
 •	Trends over Time: Identify trends in participation, medal distribution, and dominance in different sports across various Olympic Games.
